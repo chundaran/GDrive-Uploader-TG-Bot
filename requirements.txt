@@ -1,5 +1,5 @@
 wget
-pyrogram
+https://github.com/pyrogram/pyrogram/archive/asyncio.zip
 asyncio
 tgcrypto
 oauth2client
